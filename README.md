@@ -1,17 +1,63 @@
 ## Hi there 👋
 
-## I'm Samuel 
-<!--
-**sofcyber/sofcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Samuel
 
-Here are some ideas to get you started:
+💻 **Offensive Security & Web Application Security Learner**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m on a journey to master **penetration testing**, **web exploitation**, and **Active Directory attacks**.  
+This GitHub is my **learning lab** — a place to share notes, scripts, and walkthroughs as I grow in offensive security.
+
+---
+
+## 🛠 Skills I'm Building
+- **Languages:** Python, Bash, JavaScript (beginner)
+- **Security Tools:** Burp Suite, Nmap, Metasploit, GoPhish, WireShark
+- **Focus Areas:**
+  - Web Application Security (OWASP Top 10, API Security, Authentication flaws)
+  - Network & Infrastructure Attacks
+  - Active Directory Exploitation
+
+---
+
+## 📂 Learning Projects (Work in Progress)
+
+### 📖 [WebSec Notes](https://github.com/sofcyber/websec-notes)
+My study notes on:
+- OWASP Top 10 vulnerabilities
+- Example payloads
+- Burp Suite tricks
+
+---
+
+### 🔍 [Recon Scripts](https://github.com/sofcyber/recon-scripts)
+Python & Bash scripts for:
+- Subdomain enumeration
+- Directory brute forcing
+- Port scanning
+
+---
+
+### 🎯 [CTF & Lab Practice Logs](https://github.com/yourusername/ctf-logs)
+Walkthroughs from:
+- TryHackMe
+- OverTheWire
+- DVWA / Juice Shop
+
+---
+
+## 📚 Current Learning Roadmap
+- ✅ Linux & Bash basics
+- ✅ HTTP & Web Technologies
+- 🔄 OWASP Top 10 deep dive
+- 🔄 Active Directory attacks
+  
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/samuel-omondeagbon-8b2411253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkdYaPCmyRhqZi1a6wS26Fw%3D%3D)
+- **Email:** omondeagbon.sam@gmail.com
+- **TryHackMe:** [tryhackme.com/p/yourusername](https://tryhackme.com/p/sonoffaith)
+
+---
+
+⚠️ **Disclaimer:** All tools and experiments here are for **educational purposes only**.
