@@ -11,7 +11,7 @@ This GitHub is my **learning lab** .A place to share notes, scripts, and walkthr
 
 ## 🛠 Skills & Tools(in progress)
 - **Languages:** Python, Bash, JavaScript
-- **Security Tools:** Burp Suite, Nmap, Metasploit, GoPhish, WireShark
+- **Security Tools:** Burp Suite, Nmap, Metasploit, GoPhish, WireShark, Linux
 - **Focus Areas:**
   - Web Application Security (OWASP Top 10, API Security, Authentication flaws)
   - Network & Infrastructure Attacks
