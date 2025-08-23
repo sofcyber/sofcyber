@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey, I'm Samuel
 
 <a href="https://www.linkedin.com/in/samuel-omondeagbon-8b2411253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkdYaPCmyRhqZi1a6wS26Fw%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
